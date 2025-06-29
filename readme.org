@@ -1,0 +1,14 @@
+#+TITLE: ANSI Common Lisp Standard Draft
+
+* About
+
+This package installs the publiclly available draft of Common Lisp standard in Info format into Emacs.
+The converted info files of the draft as originally found in [[https://github.com/jwiegley/ready-lisp][Ready Lisp by J. Wiegley]].
+
+* Install
+
+Clone this repo to your computer. Open the directory in Emacs, and than M-x package-install-file.
+
+* Usage
+
+Once installed, open the Info, C-h i. There should be a new Menu node, Common Lisp, and an entry for the draft under the menu.
