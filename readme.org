@@ -1,9 +1,9 @@
-#+TITLE: ANSI Common Lisp Standard Draft
+#+TITLE: The Draft of ANSI Common Lisp Standard
 
 * About
 
 This package installs the publiclly available draft of Common Lisp standard in Info format into Emacs.
-The converted info files of the draft as originally found in [[https://github.com/jwiegley/ready-lisp][Ready Lisp by J. Wiegley]].
+The converted info files of the draft as originally found in [[https://github.com/jwiegley/ready-lisp][Ready Lisp]].
 
 * Install
 
@@ -12,3 +12,9 @@ Clone this repo to your computer. Open the directory in Emacs, and than M-x pack
 * Usage
 
 Once installed, open the Info, C-h i. There should be a new Menu node, Common Lisp, and an entry for the draft under the menu.
+
+* Remark
+
+I have seen various versions of the draft online as web versions, as well as verious Info versions. I prefer the one found here, and find it handy to read directly in Emacs. I hope I am not infring on anyone's IP. If I do, than let me know and I'll take it down. I have not done much with these info package, I have just turned it into an easy to install Emacs package for the mere convenience. There is no need to manually install those now when we have package.el and other installers.
+
+As I understand what the editor of the Draft K. Pitman, wrote about copyrights in his essay [[https://nhplace.com/kent/Papers/cl-untold-story.html][Common Lisp: The Untold Story]], which was published in the 50th Anniversary of Lisp conference, his work is in the public domain since it was done for the community and paid by the various organizations and companies, so hopefully this is not illegal to share. If it is, let me know and I will remove it from the public repository.

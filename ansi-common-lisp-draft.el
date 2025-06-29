@@ -1,4 +1,4 @@
-;;; ansi-common-lisp.el --- A dummy file to install ANSI doc in info manual  -*- lexical-binding: t; -*-
+;;; ansi-common-lisp-draft.el --- A dummy file to install ANSI doc in info manual  -*- lexical-binding: t; -*-
 
 ;; Copyright (C) 2025  Arthur Miller
 
@@ -28,5 +28,5 @@
 
 ;;; Code:
 
-(provide 'ansi-common-lisp)
-;;; ansi-common-lisp.el ends here
+(provide 'ansi-common-lisp-draft)
+;;; ansi-common-lisp-draft.el ends here
