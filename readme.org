@@ -17,8 +17,4 @@ Once installed, open the Info, C-h i. There should be a new Menu node, Common Li
 
 I have seen various versions of the draft online as web versions, as well as verious Info versions. I prefer the one found here, and find it handy to read it from Emacs. I hope I am not infring in anyone's IP. If I do, than let me know and I'll take it down. I have turn this into an easy to install Emacs package for the mere convenience and the joy for using the Common Lisp language.
 
-In the private conversion the editor of the Draft, K. Pitman, wrote about copyrights:
-
-"This is generally believed to be in the public domain, though there is no way to assure that. An explanation of that is in my article [[https://nhplace.com/kent/Papers/cl-untold-story.html][Common Lisp: The Untold Story]], which was published in the 50th Anniversary of Lisp conference."
-
-
+As I understand the editor of the Draft, K. Pitman, wrote about copyrights: [[https://nhplace.com/kent/Papers/cl-untold-story.html][Common Lisp: The Untold Story]], which was published in the 50th Anniversary of Lisp conference, his work is in the public domain since it was done for the community and paid by the various organizations and companies, so hopefully this is not illegal to share. If it is I can take it down.
