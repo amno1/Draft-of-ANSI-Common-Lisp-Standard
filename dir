@@ -1,4 +1,4 @@
-This is the file .../info/dir, which contains the
+This is the file .../dir, which contains the
 topmost node of the Info hierarchy, called (dir)Top.
 The first time you invoke Info you start off looking at this node.
 
@@ -15,4 +15,4 @@ File: dir,	Node: Top	This is the top of the INFO tree
 * Menu:
 
 Common Lisp
-* ANSI Common Lisp: (info/ansicl).     Draft of ANSI Common Lisp Standard
+* ANSI Common Lisp: (ansicl).     Draft of ANSI Common Lisp Standard
